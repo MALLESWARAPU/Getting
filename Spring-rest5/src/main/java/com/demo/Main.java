@@ -13,7 +13,7 @@ public class Main {
 		final Logger logger = LoggerFactory.getLogger(Main.class);
 		logger.info("this is a info message");
 	      logger.warn("this is a warn message");
-	      logger.error("this is a error message");
+	      logger.error("this is a error message no");
 	      
 	}
 }
